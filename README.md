@@ -14,6 +14,8 @@ Slay Bot is a chatbot created using Brainshop AI and trained by Ayush Gorlawar.
     ```
 2. Interact with Slay Bot through the provided interface.
 
+3. You can visit direct to access the Bot from [here](https://ayush-slaybot.streamlit.app)
+
 ## Contributing
 We welcome contributions to improve Slay Bot. Please fork the repository and create a pull request with your changes.
 
