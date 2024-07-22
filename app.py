@@ -3,8 +3,8 @@ import streamlit as st
 from brainshop_helper import get_brainshop_response, save_response, ping_brainshop_api
 
 # Set up your Brainshop API credentials
-API_KEY = "your_key"
-BOT_ID = "your_botid"
+API_KEY = "rl9O6TuAhfS194dX"
+BOT_ID = "173837"
 USER_ID = "default_user"  # You can change this to a dynamic value if needed
 
 st.set_page_config(page_title="Slayy Bot", page_icon="🤖")
