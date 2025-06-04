@@ -24,3 +24,5 @@ This project is licensed under the MIT License.
 
 ## Contact
 For any inquiries or support, please contact Ayush Gorlawar at [ayushgorlawar91@gmail.com](mailto:ayushgorlawar91@gmail.com).
+
+## News
