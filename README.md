@@ -26,3 +26,5 @@ This project is licensed under the MIT License.
 For any inquiries or support, please contact Ayush Gorlawar at [ayushgorlawar91@gmail.com](mailto:ayushgorlawar91@gmail.com).
 
 ## News
+
+This bot is temporary shutdown
